@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/✉ Gmail-abhisheksharma84457@gmail.com-ea4335?style=flat" />
   </a>
   &nbsp;
-  <a href="YOUR_YOUTUBE_LINK_HERE" target="_blank">
+  <a href="https://www.youtube.com/@mr.lazyprogrammer" target="_blank">
     <img src="https://img.shields.io/badge/▶ YouTube-MR Lazy Programmer-ff0000?style=flat&logo=youtube&logoColor=white" />
   </a>
 </p>
@@ -25,18 +25,33 @@
 
 ```javascript
 const abhishek = {
-  role     : "Full Stack Developer",
-  experience: "3.5+ years",
-  location : "Lucknow, India 🇮🇳",
-  focus    : ["Node.js", "Next.js", "Microservices", "AI / LLMs"],
-  projects : "20+ production apps shipped",
+  role        : "Senior Full Stack Developer",
+  experience  : "3.5+ years",
+  location    : "Lucknow, India 🇮🇳",
+  currentWork : "Zonvoir Technologies — Full Stack + AI Engineer",
+  focus       : ["Node.js", "Next.js", "NestJS", "Microservices", "AI / LLMs"],
+  projects    : "20+ production apps shipped across SaaS, booking, healthcare & real-time domains",
+
+  expertise: {
+    backend   : ["REST APIs", "Microservices", "Queue Systems", "JWT/OAuth Auth"],
+    frontend  : ["Next.js App Router", "React.js", "Tailwind CSS", "ShadCN"],
+    realtime  : ["Socket.io", "WebRTC", "Firebase Realtime DB"],
+    AI        : ["OpenAI LLMs", "Prompt Engineering", "RAG", "AI Agent Development"],
+    payments  : ["Stripe", "Razorpay", "CCAvenue"],
+    cloud     : ["AWS EC2 / S3 / RDS", "Docker", "Nginx", "CI/CD"],
+  },
+
   achievements: [
-    "⚡ Improved API performance by ~30–40%",
-    "🚀 Reduced app load time by ~35% in production",
-    "🤖 Shipped AI features with OpenAI LLMs & RAG",
-    "☁️  Deployed 6+ live products on AWS",
-    "💳 Integrated Stripe, Razorpay & CCAvenue payment gateways"
-  ]
+    "⚡ Improved API performance by ~30–40% via caching & query optimization",
+    "🚀 Reduced production load times by ~35% through performance refactoring",
+    "🤖 Built & shipped AI Sales Agent using OpenAI LLMs + RAG workflows",
+    "☁️  Deployed 6+ live products on AWS (EC2, S3, RDS)",
+    "💳 Integrated Stripe, Razorpay & CCAvenue in production platforms",
+    "📦 Architected microservices systems with scalable API gateway patterns",
+  ],
+
+  currentlyLearning : ["Advanced AI Agents", "LangChain", "System Design at Scale"],
+  funFact           : "I turn coffee into scalable backend systems ☕→🚀",
 };
 ```
 
@@ -58,7 +73,10 @@ const abhishek = {
 
 
 
+
+
 **Frontend**
+
 
 
 
@@ -82,7 +100,18 @@ const abhishek = {
 
 
 
+
+
+
 **AI & Real-time**
+
+
+
+
+
+
+
+**Payments & Integrations**
 
 
 
@@ -117,33 +146,81 @@ const abhishek = {
 
 | Project | Description | Stack | Live |
 |---------|-------------|-------|------|
-| 🏨 **Hoteliorooms** | OYO-style hotel management platform |    | [hoteliorooms.com](https://www.hoteliorooms.com) |
+| 🏨 **Hoteliorooms** | OYO-style hotel management & booking platform |    | [hoteliorooms.com](https://www.hoteliorooms.com) |
 | 🔧 **SS Quick Helpers** | On-demand service booking marketplace |    | Live |
-| 🏥 **OW Care** | Healthcare & care service platform |    | [ourwhy.org](https://www.ourwhy.org) |
-| 🤖 **AI Sales Agent** | Conversational AI for sales automation |    | Internal |
-| 💕 **Love Birds** | Dating app with real-time chat & video calls |    | Internal |
+| 🏥 **OW Care** | Healthcare care-service platform with queue & booking system |    | [ourwhy.org](https://www.ourwhy.org) |
+| 🤖 **AI Sales Agent** | Conversational AI automation for lead handling & CRM |    | Internal |
+| 💕 **Love Birds** | Dating app — real-time chat, media & video calls |    | Internal |
 
-> 🔗 **20+ projects** in total — from SaaS platforms and booking systems to admin dashboards, real-time apps, and AI-powered tools.
+> 🔗 **20+ projects** shipped — SaaS platforms, booking engines, admin dashboards, real-time communication apps, and AI-powered tools.
 
 ***
 
-## 💼 Work Timeline
+## 💼 Experience
 
-```
-🏢 Zonvoir Technologies   [May 2024 – Present]   → Full Stack / AI  (NestJS, Next.js, LLMs, Microservices)
-🏢 Trickle Solutions      [Jun 2023 – Mar 2024]   → Full Stack       (MERN, Socket.io, AWS)
-🏢 G Net Technologies     [Jun 2022 – Jun 2023]   → MERN Stack Developer
-🏢 Cosmo Info Solutions   [May 2021 – Dec 2021]   → Django Developer
-```
+<table>
+  <tr>
+    <td><b>🏢 Zonvoir Technologies</b></td>
+    <td><code>May 2024 – Present</code></td>
+    <td>Senior Full Stack Developer / AI Engineer</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      &nbsp;&nbsp;&nbsp;→ Built microservices with NestJS + Next.js serving production traffic<br/>
+      &nbsp;&nbsp;&nbsp;→ Integrated OpenAI LLMs to build AI-powered automation & agent workflows<br/>
+      &nbsp;&nbsp;&nbsp;→ Improved API performance ~30–40% via Redis caching & query optimization<br/>
+      &nbsp;&nbsp;&nbsp;→ Implemented secure auth systems (JWT, OAuth) across multiple products
+    </td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td><b>🏢 Trickle Solutions</b></td>
+    <td><code>Jun 2023 – Mar 2024</code></td>
+    <td>Full Stack Developer</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      &nbsp;&nbsp;&nbsp;→ Developed full-stack apps with React.js, Node.js, MongoDB<br/>
+      &nbsp;&nbsp;&nbsp;→ Built real-time features using Socket.io — boosted user engagement<br/>
+      &nbsp;&nbsp;&nbsp;→ Reduced app load time by ~35% via code refactoring & caching<br/>
+      &nbsp;&nbsp;&nbsp;→ Integrated payments, analytics & social platform APIs
+    </td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td><b>🏢 G Net Technologies</b></td>
+    <td><code>Jun 2022 – Jun 2023</code></td>
+    <td>Full Stack Developer</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      &nbsp;&nbsp;&nbsp;→ Built scalable backend services using Node.js & Express.js<br/>
+      &nbsp;&nbsp;&nbsp;→ Developed reusable React.js UI components<br/>
+      &nbsp;&nbsp;&nbsp;→ Designed secure auth & authorization systems
+    </td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td><b>🏢 Cosmo Info Solutions</b></td>
+    <td><code>May 2021 – Dec 2021</code></td>
+    <td>Django Developer</td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      &nbsp;&nbsp;&nbsp;→ Built backend systems & REST APIs using Django & Python<br/>
+      &nbsp;&nbsp;&nbsp;→ Delivered stable and maintainable web applications
+    </td>
+  </tr>
+</table>
 
 ***
 
 ## 🎓 Education
 
 ```
-🎓 MCA – Master of Computer Applications     Himalayan Garhwal University  (2019–2022)
-📜 PGDCA – Post Graduate Diploma in CA       Himalayan Garhwal University  (2018–2019)
-🎓 B.Com – Bachelor of Commerce              University of Lucknow         (2015–2018)
+🎓 MCA  – Master of Computer Applications       Himalayan Garhwal University   (2019–2022)
+📜 PGDCA – Post Graduate Diploma in CA          Himalayan Garhwal University   (2018–2019)
+🎓 B.Com – Bachelor of Commerce                 University of Lucknow          (2015–2018)
 ```
 
 ***
