@@ -118,24 +118,43 @@
 
 ## 📊 GitHub Stats
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharmaG-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaG-Dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SharmaG-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaG-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharmaG-Dev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharmaG-Dev&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="70%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SharmaG-Dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/20+_Projects_Shipped-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀 20%2B Projects Shipped-1f6feb?style=for-the-badge&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/3.5+_Years_Experience-238636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⏳ 3.5%2B Years Experience-238636?style=for-the-badge&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/6+_Live_Products-9f6bdb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️ 6%2B Live on AWS-9f6bdb?style=for-the-badge&labelColor=0d1117" />
 </p>
 
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SharmaG-Dev&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&hide_border=true" width="95%" />
+</p>
 ***
 
 ## 🏆 Featured Projects
