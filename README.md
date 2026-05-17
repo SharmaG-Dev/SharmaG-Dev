@@ -223,11 +223,20 @@
 
 ## 🌱 Currently Learning
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-0D9488?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector_DB_(Pinecone/Weaviate)-7B2FBE?style=flat-square)
+![AI Agents](https://img.shields.io/badge/Custom_AI_Agents-238636?style=flat-square)
+![Fine Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-FF9900?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Advanced_Prompt_Engineering-1f6feb?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design_at_Scale-0A66C2?style=flat-square)
 
+> 🤖 Currently focused on building **production-grade Generative AI systems** —
+> custom AI agents, RAG pipelines, LLM fine-tuning & end-to-end AI product development.
 
-
-
-***
+---
 
 ## 🤝 Connect With Me
 
