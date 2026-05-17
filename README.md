@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
-<h3 align="center">Full Stack Developer · Node.js | Next.js | Microservices | AI</h3>
+<h3 align="center">Senior Full Stack Developer · Node.js | Next.js | Microservices | AI</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=SharmaG-Dev&label=Profile%20Views&color=0e75b6&style=flat" target="_blank">
@@ -21,39 +21,35 @@
 
 ***
 
-## 🚀 About Me
+## 🧑‍💻 Who Am I?
 
-```javascript
-const abhishek = {
-  role        : "Senior Full Stack Developer",
-  experience  : "3.5+ years",
-  location    : "Lucknow, India 🇮🇳",
-  currentWork : "Zonvoir Technologies — Full Stack + AI Engineer",
-  focus       : ["Node.js", "Next.js", "NestJS", "Microservices", "AI / LLMs"],
-  projects    : "20+ production apps shipped across SaaS, booking, healthcare & real-time domains",
+> **Senior Full Stack Developer** with **3.5+ years** of experience building production-grade web applications.
+> Currently working at **Zonvoir Technologies** as a Full Stack + AI Engineer.
+> Based in **Lucknow, India 🇮🇳** · Shipped **20+ apps** across SaaS, booking, healthcare & real-time domains.
 
-  expertise: {
-    backend   : ["REST APIs", "Microservices", "Queue Systems", "JWT/OAuth Auth"],
-    frontend  : ["Next.js App Router", "React.js", "Tailwind CSS", "ShadCN"],
-    realtime  : ["Socket.io", "WebRTC", "Firebase Realtime DB"],
-    AI        : ["OpenAI LLMs", "Prompt Engineering", "RAG", "AI Agent Development"],
-    payments  : ["Stripe", "Razorpay", "CCAvenue"],
-    cloud     : ["AWS EC2 / S3 / RDS", "Docker", "Nginx", "CI/CD"],
-  },
+***
 
-  achievements: [
-    "⚡ Improved API performance by ~30–40% via caching & query optimization",
-    "🚀 Reduced production load times by ~35% through performance refactoring",
-    "🤖 Built & shipped AI Sales Agent using OpenAI LLMs + RAG workflows",
-    "☁️  Deployed 6+ live products on AWS (EC2, S3, RDS)",
-    "💳 Integrated Stripe, Razorpay & CCAvenue in production platforms",
-    "📦 Architected microservices systems with scalable API gateway patterns",
-  ],
+## 🎯 Focus Areas
 
-  currentlyLearning : ["Advanced AI Agents", "LangChain", "System Design at Scale"],
-  funFact           : "I turn coffee into scalable backend systems ☕→🚀",
-};
-```
+| Domain | Technologies |
+|--------|-------------|
+| 🔧 **Backend** | REST APIs · Microservices · Queue Systems · JWT/OAuth Auth |
+| 🖥️ **Frontend** | Next.js App Router · React.js · Tailwind CSS · ShadCN UI |
+| ⚡ **Real-time** | Socket.io · WebRTC · Firebase Realtime DB |
+| 🤖 **AI / LLMs** | OpenAI APIs · Prompt Engineering · RAG · AI Agent Development |
+| 💳 **Payments** | Stripe · Razorpay · CCAvenue |
+| ☁️ **Cloud** | AWS EC2 / S3 / RDS · Docker · Nginx · CI/CD |
+
+***
+
+## 🏅 Key Achievements
+
+- ⚡ Improved API performance by **~30–40%** via Redis caching & query optimization
+- 🚀 Reduced production load times by **~35%** through performance refactoring
+- 🤖 Built & shipped **AI Sales Agent** using OpenAI LLMs + RAG workflows
+- ☁️ Deployed **6+ live products** on AWS (EC2, S3, RDS)
+- 💳 Integrated **Stripe, Razorpay & CCAvenue** in production platforms
+- 📦 Architected **microservices systems** with scalable API gateway patterns
 
 ***
 
@@ -66,7 +62,6 @@ const abhishek = {
 
 
 **Backend**
-
 
 
 
@@ -148,11 +143,11 @@ const abhishek = {
 |---------|-------------|-------|------|
 | 🏨 **Hoteliorooms** | OYO-style hotel management & booking platform |    | [hoteliorooms.com](https://www.hoteliorooms.com) |
 | 🔧 **SS Quick Helpers** | On-demand service booking marketplace |    | Live |
-| 🏥 **OW Care** | Healthcare care-service platform with queue & booking system |    | [ourwhy.org](https://www.ourwhy.org) |
+| 🏥 **OW Care** | Healthcare care-service platform with queue & booking |    | [ourwhy.org](https://www.ourwhy.org) |
 | 🤖 **AI Sales Agent** | Conversational AI automation for lead handling & CRM |    | Internal |
 | 💕 **Love Birds** | Dating app — real-time chat, media & video calls |    | Internal |
 
-> 🔗 **20+ projects** shipped — SaaS platforms, booking engines, admin dashboards, real-time communication apps, and AI-powered tools.
+> 🔗 **20+ projects** shipped — SaaS platforms, booking engines, admin dashboards, real-time apps & AI-powered tools.
 
 ***
 
@@ -162,7 +157,7 @@ const abhishek = {
   <tr>
     <td><b>🏢 Zonvoir Technologies</b></td>
     <td><code>May 2024 – Present</code></td>
-    <td>Senior Full Stack Developer / AI Engineer</td>
+    <td><b>Senior Full Stack Developer / AI Engineer</b></td>
   </tr>
   <tr>
     <td colspan="3">
@@ -176,7 +171,7 @@ const abhishek = {
   <tr>
     <td><b>🏢 Trickle Solutions</b></td>
     <td><code>Jun 2023 – Mar 2024</code></td>
-    <td>Full Stack Developer</td>
+    <td><b>Full Stack Developer</b></td>
   </tr>
   <tr>
     <td colspan="3">
@@ -190,7 +185,7 @@ const abhishek = {
   <tr>
     <td><b>🏢 G Net Technologies</b></td>
     <td><code>Jun 2022 – Jun 2023</code></td>
-    <td>Full Stack Developer</td>
+    <td><b>Full Stack Developer</b></td>
   </tr>
   <tr>
     <td colspan="3">
@@ -203,7 +198,7 @@ const abhishek = {
   <tr>
     <td><b>🏢 Cosmo Info Solutions</b></td>
     <td><code>May 2021 – Dec 2021</code></td>
-    <td>Django Developer</td>
+    <td><b>Django Developer</b></td>
   </tr>
   <tr>
     <td colspan="3">
@@ -218,10 +213,18 @@ const abhishek = {
 ## 🎓 Education
 
 ```
-🎓 MCA  – Master of Computer Applications       Himalayan Garhwal University   (2019–2022)
+🎓 MCA   – Master of Computer Applications      Himalayan Garhwal University   (2019–2022)
 📜 PGDCA – Post Graduate Diploma in CA          Himalayan Garhwal University   (2018–2019)
 🎓 B.Com – Bachelor of Commerce                 University of Lucknow          (2015–2018)
 ```
+
+***
+
+## 🌱 Currently Learning
+
+
+
+
 
 ***
 
@@ -243,6 +246,10 @@ const abhishek = {
   <a href="https://github.com/SharmaG-Dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-SharmaG--Dev-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <i>☕ "I turn coffee into scalable backend systems" → 🚀</i>
 </p>
 
 <p align="center">
