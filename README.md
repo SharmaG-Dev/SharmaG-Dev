@@ -155,7 +155,7 @@ const abhishek = {
     <img src="https://img.shields.io/badge/🌐 Portfolio-mrlazyprogrammer.com-1f6feb?style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="YOUR_YOUTUBE_LINK_HERE" target="_blank">
+  <a href="https://www.youtube.com/@mr.lazyprogrammer" target="_blank">
     <img src="https://img.shields.io/badge/▶ YouTube-MR Lazy Programmer-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   &nbsp;
